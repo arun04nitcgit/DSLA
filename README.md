@@ -3,18 +3,18 @@ Tuesday Assignment - 04/03/2018
 
 1.....
 2 Industries hiring data scientists where you would like to work
-•	Healthcare
-•	Sports & Entertainments.
-•	Defense and Security 
+Healthcare
+Sports & Entertainments.
+Defense and Security 
 
 I would like to work in sports and entertainment.
 
 2.....
 2 Types of data science problems they solve
-•	Healthcare – Analysis of imaging data derived from patient X-Ray, MRI scan to identify the probability of the ailment.
-•	Sports & Entertainment – Analyze the environmental condition and opponent strengths and weakness to derive the team combination and game strategy. 
+Healthcare – Analysis of imaging data derived from patient X-Ray, MRI scan to identify the probability of the ailment.
+Sports & Entertainment – Analyze the environmental condition and opponent strengths and weakness to derive the team combination and game strategy. 
 
 3.......
 Identify the Algorithms typically used to solve those problems
-•	Linear and non-linear regression
-•	Clustering
+Linear and non-linear regression
+Clustering
