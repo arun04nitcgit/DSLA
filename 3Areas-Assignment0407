@@ -1,0 +1,19 @@
+3 Areas of data science problems in your personal/professional life
+
+Example 1:
+Relevant Question : Analysis of Human MRI Scan image for clinical analysis.
+Hypothesis : Identify the model to recognize the pattern in image for ailment.
+Data Source : Clinical Souce of data from department of healthcare and science.
+Algorithm : Predective Analytics & Classification.
+
+Example 2:
+Relevant Question : Identify the winnng pattern against an opponent at a given venuue.
+Hypothesis : Identify the model to formulate a strategy to identify winning team combination.
+Data Source : Data for cricket match and player statistics from cricinfo.
+Algorithm : Predective Analytics & Classification.
+
+Example 1:
+Relevant Question : Analysis of security loopholes and fraudlent transactions.
+Hypothesis : Identify the model to recognize the chance of security breach in a given transaction.
+Data Source : Data from user tranaction from Banks and retails.
+Algorithm : Predective Analytics & Classification.
